@@ -380,3 +380,19 @@ x==========x]
 [2025-12-19 14:12:40,047: INFO: _internal: 192.168.1.37 - - [19/Dec/2025 14:12:40] "POST /predict HTTP/1.1" 200 -]
 [2025-12-19 14:12:51,096: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
 [2025-12-19 14:12:51,857: INFO: _internal: 192.168.1.37 - - [19/Dec/2025 14:12:51] "POST /predict HTTP/1.1" 200 -]
+[2025-12-19 14:59:41,060: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.37:3000]
+[2025-12-19 14:59:41,060: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 15:00:07,093: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.37:3000]
+[2025-12-19 15:00:07,093: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 15:00:11,204: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 15:00:11] "GET / HTTP/1.1" 200 -]
+[2025-12-19 15:00:12,220: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 15:00:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-12-19 15:00:19,653: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-12-19 15:00:20,736: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 15:00:20] "POST /predict HTTP/1.1" 200 -]
+[2025-12-19 15:00:31,402: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-12-19 15:00:32,110: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 15:00:32] "POST /predict HTTP/1.1" 200 -]
