@@ -1,0 +1,40 @@
+[2026-01-19 20:02:58,246: INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-01-19 20:02:58,278: INFO: common: YAML file params.yaml loaded successfully]
+[2026-01-19 20:02:58,279: INFO: common: created directory at: artifacts]
+[2026-01-19 20:02:58,284: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-19 20:03:06,294: INFO: 144590454: artifacts/data_ingestion/data.zip download! with following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: AB8D:32D92F:47C7AA:B0BC13:696E409D
+Accept-Ranges: bytes
+Date: Mon, 19 Jan 2026 14:33:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210057-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1768833182.889387,VS0,VE897
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fcfee717b0fa81a37475222723cfeeb675287a23
+Expires: Mon, 19 Jan 2026 14:38:02 GMT
+Source-Age: 1
+
+]
+[2026-01-19 20:09:53,823: INFO: main: >>>>>> Data Ingestion Stage started <<<<<<]
+[2026-01-19 20:09:53,828: INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-01-19 20:09:53,828: INFO: common: YAML file params.yaml loaded successfully]
+[2026-01-19 20:09:53,828: INFO: common: created directory at: artifacts]
+[2026-01-19 20:09:53,835: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-19 20:09:53,835: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2026-01-19 20:09:54,590: INFO: main: >>>>>> Data Ingestion Stage completed <<<<<<
+
+x==========x]
